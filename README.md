@@ -11,7 +11,7 @@ Each file and its corresponding publication(s) are listed below:
    
    Xu, Ying, et al. "Quantitative profiling of built environment bacterial and fungal communities reveals dynamic material dependent growth             patterns and microbial interactions." Indoor air (2020).
    
-3) Periodontal_Disease
+3) Periodontal_Disease:
    
    Delange, Nicole, et al. "Periodontal disease and its connection to systemic biomarkers of cardiovascular disease in young American                   Indian/Alaskan natives." Journal of periodontology 89.2 (2018): 219-227.
    

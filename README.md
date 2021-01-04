@@ -3,7 +3,7 @@ t-SNE and UMAP data visualizations for microbial datasets from Dr. Kelley's Lab 
 
 Each file and its corresponding publication(s) are listed below:
 
-1) Lax_2020:
+1) <b>Lax_2020</b>:
    
    Lax, Simon, et al. "Microbial and metabolic succession on common building materials under high humidity conditions." Nature communications 10.1       (2019): 1-12.
    
